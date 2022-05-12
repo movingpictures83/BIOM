@@ -1,0 +1,4 @@
+op	add-metadata
+inputfile	feature-table.biom
+observationmetadataFP	biom-taxonomy.tsv
+scSeparated	taxonomy

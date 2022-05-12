@@ -1,0 +1,2 @@
+Prefix plugins/BIOM/example
+Plugin BIOM inputfile parameters.biom.txt outputfile table-with-taxonomy.biom
